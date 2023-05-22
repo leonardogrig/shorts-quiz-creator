@@ -1,0 +1,123 @@
+[
+  {
+    "ninche": "Artificial Intelligence",
+    "question": "What is machine learning?",
+    "answer": "Machine learning is a subset of AI that enables computers to learn and make predictions without being explicitly programmed."
+  },
+  {
+    "ninche": "Entrepreneurship &Business",
+    "question": "What is a business model?",
+    "answer": "A business model is a framework that describes how a company creates, delivers, and captures value."
+  },
+  {
+    "ninche": "Artificial Intelligence",
+    "question": "What is deep learning?",
+    "answer": "Deep learning is a subset of machine learning that uses neural networks with multiple layers to learn complex patterns."
+  },
+  {
+    "ninche": "Entrepreneurship &Business",
+    "question": "What is a value proposition?",
+    "answer": "A value proposition is a unique benefit that a product or service offers to customers."
+  },
+  {
+    "ninche": "Coding",
+    "question": "What is version control?",
+    "answer": "Version control is a system that tracks changes to files and allows multiple people to collaborate on a project."
+  },
+  {
+    "ninche": "Artificial Intelligence",
+    "question": "What is reinforcement learning?",
+    "answer": "Reinforcement learning is a machine learning technique where an agent learns by interacting with an environment and receiving rewards or punishments."
+  },
+  {
+    "ninche": "Entrepreneurship &Business",
+    "question": "What is market segmentation?",
+    "answer": "Market segmentation is the process of dividing a broad target market into smaller, more homogeneous segments."
+  },
+  {
+    "ninche": "Coding",
+    "question": "What is a function?",
+    "answer": "A function is a block of code that performs a specific task and can be reused throughout a program."
+  },
+  {
+    "ninche": "Artificial Intelligence",
+    "question": "What is unsupervised learning?",
+    "answer": "Unsupervised learning is a machine learning technique where the model learns from unlabeled data without any predefined target variable."
+  },
+  {
+    "ninche": "Entrepreneurship &Business",
+    "question": "What is bootstrapping?",
+    "answer": "Bootstrapping is a method of starting a business with minimal external resources or capital."
+  },
+  {
+    "ninche": "Coding",
+    "question": "What is a variable?",
+    "answer": "A variable is a named storage location in a program that holds a value."
+  },
+  {
+    "ninche": "Artificial Intelligence",
+    "question": "What is supervised learning?",
+    "answer": "Supervised learning is a machine learning technique where the model learns from labeled data with known target values."
+  },
+  {
+    "ninche": "Entrepreneurship &Business",
+    "question": "What is a minimum viable product (MVP)?",
+    "answer": "A minimum viable product is the simplest version of a product that allows for early testing and feedback from users."
+  },
+  {
+    "ninche": "Coding",
+    "question": "What is recursion?",
+    "answer": "Recursion is a programming technique where a function calls itself to solve a problem."
+  },
+  {
+    "ninche": "Artificial Intelligence",
+    "question": "What is natural language understanding?",
+    "answer": "Natural language understanding is the ability of AI systems to comprehend and interpret human language."
+  },
+  {
+    "ninche": "Coding",
+    "question": "What is debugging?",
+    "answer": "Debugging is the process of identifying and fixing errors or bugs in a software program."
+  },
+  {
+    "ninche": "Artificial Intelligence",
+    "question": "What is data mining?",
+    "answer": "Data mining is the process of extracting patterns and knowledge from large datasets."
+  },
+  {
+    "ninche": "Entrepreneurship &Business",
+    "question": "What is a value chain?",
+    "answer": "A value chain is a sequence of activities that a company undertakes to create and deliver a product or service to customers."
+  },
+  {
+    "ninche": "Artificial Intelligence",
+    "question": "What is an artificial neural network?",
+    "answer": "An artificial neural network is a computational model inspired by the structure and functioning of biological neural networks."
+  },
+  {
+    "ninche": "Coding",
+    "question": "What is an API endpoint?",
+    "answer": "An API endpoint is a specific URL or URI (Uniform Resource Identifier) that an API exposes to enable communication with other software applications."
+  },
+  {
+    "ninche": "Artificial Intelligence",
+    "question": "What is the Turing test?",
+    "answer": "The Turing test is a test of a machine's ability to exhibit intelligent behavior equivalent to or indistinguishable from that of a human."
+  },
+  {
+    "ninche": "Entrepreneurship &Business",
+    "question": "What is customer segmentation?",
+    "answer": "Customer segmentation is the process of dividing customers into groups based on shared characteristics for targeted marketing and personalized experiences."
+  },
+  {
+    "ninche": "Coding",
+    "question": "What is an IDE?",
+    "answer": "An IDE (Integrated Development Environment) is a software application that provides comprehensive tools and features for software development."
+  },
+  {
+    "ninche": "Artificial Intelligence",
+    "question": "What is an expert system?",
+    "answer": "An expert system is a computer program that uses knowledge and reasoning techniques to solve complex problems in a specific domain."
+  }
+
+]
